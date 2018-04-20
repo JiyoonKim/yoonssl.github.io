@@ -57,23 +57,23 @@ String: {
 # Object 오브젝트
 - es3 기준 Object 오브젝트의 프로퍼티 리스트
 ```
-| 이름                   | 개요                                |
+| 이름                    | 개요                                 |
 |------------------------|-------------------------------------|
 | Object                 |                                     |
-| new Object()           | 인스턴스 생성                       |
-| Object()               | 인스턴스 생성, new Object()와 같음  |
+| new Object()           | 인스턴스 생성                          |
+| Object()               | 인스턴스 생성, new Object()와 같음       |
 | Object.prototype       |                                     |
-| constructor            | 생성자                              |
-| toString()             | 문자열 표시 변환                    |
-| toLocalString()        | 지역화 문자열로 변환                |
-| valueOf()              | 프리미티브 값 반환                  |
-| hasOwnProperty()       | 프로퍼티 소유 여부 반환             |
-| isPrototypeOf()        | Prototype에 오브젝트 존재 여부 반환 |
-| propertyIsEnumerable() | 프로퍼티 열거 가능 여부 반환        |
+| constructor            | 생성자                                |
+| toString()             | 문자열 표시 변환                        |
+| toLocalString()        | 지역화 문자열로 변환                     |
+| valueOf()              | 프리미티브 값 반환                      |
+| hasOwnProperty()       | 프로퍼티 소유 여부 반환                  |
+| isPrototypeOf()        | Prototype에 오브젝트 존재 여부 반환       |
+| propertyIsEnumerable() | 프로퍼티 열거 가능 여부 반환               |
 ```
 - es5 기준 Object 오브젝트의 프로퍼티 리스트
 ```
-| 이름                   | 개요                                |
+| 이름                    | 개요                                 |
 |------------------------|-------------------------------------|
 
 ```
